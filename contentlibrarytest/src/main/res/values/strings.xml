@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContentLibraryTest</string>
+
+    <string name="main_button_view">View</string>
+    <string name="main_button_dialog">Dialog</string>
+    <string name="main_button_activity">Activity</string>
+
+    <string name="view_content_title">View</string>
+    <string name="dialog_content_title">Dialog</string>
+    <string name="activity_content_title">Activity</string>
+
+</resources>

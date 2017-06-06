@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="label_camera">Камера</string>
+    <string name="label_gallery">Галерея</string>
+    <string name="label_video">Видео</string>
+    <string name="label_graffiti">Граффити</string>
+    <string name="label_document">Документ</string>
+
+    <string name="default_activity_label">Выбор медиа</string>
+    <string name="default_image_gallery_activity_label">Выбор изображения</string>
+
+    <string name="permission_storage_rationale">Пожалуйста, разрешите доступ ко внешнему хранилищу в настройках приложения.</string>
+    <string name="permission_storage_denied">Доступ ко внешнему хранилищу запрещен.</string>
+
+</resources>

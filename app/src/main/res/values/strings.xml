@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">ContentLibrary</string>
+
+    <string name="label_camera">Camera</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="label_video">Video</string>
+    <string name="label_graffiti">Graffiti</string>
+    <string name="label_document">Document</string>
+
+    <string name="default_activity_label">Choosing a Media</string>
+    <string name="default_image_gallery_activity_label">Choosing a Image</string>
+
+    <string name="permission_storage_rationale">Please allow access to external storage in the application settings.</string>
+    <string name="permission_storage_denied">Reading storage permission denied.</string>
+</resources>
